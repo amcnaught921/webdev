@@ -1,0 +1,11 @@
+@import '../../variables.scss'; 
+
+body { 
+    margin: 0; 
+    font-family: $font-family; 
+}
+
+.my-page-content { 
+    margin-left: $navbar-width; 
+    margin-top: $page-header-height; 
+} 
